@@ -28,7 +28,6 @@ Due to GitHub restrictions, these audio files may not play directly in browsers.
 - Test Soggy plugin playback  
 - Verify audio streaming setup  
 - Sample sound for initial use
-
 ---
 
 ## 📁 Direct File Link
@@ -44,4 +43,12 @@ https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/its-just-a-burning-me
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/soundsjumpscaretrollolol.mp3
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/soundssoggysong.mp3
 
+---
 
+## ⚠️ Disclaimer
+
+Some sounds may be subject to copyright.  
+I am not responsible for any copyright issues arising from their use.  
+Also, some files may not work correctly or as expected.
+
+---
