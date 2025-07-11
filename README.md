@@ -30,6 +30,14 @@ Due to GitHub restrictions, these audio files may not play directly in browsers.
 - Sample sound for initial use
 ---
 
+## ⚠️ Disclaimer
+
+Some sounds may be subject to copyright.  
+I am not responsible for any copyright issues arising from their use.  
+Also, some files may not work correctly or as expected.
+
+---
+
 ## 📁 Direct File Link
 
 ```plaintext
@@ -42,13 +50,3 @@ https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/Styx%20_%20Mr.%20Robo
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/its-just-a-burning-memory.opus
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/soundsjumpscaretrollolol.mp3
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/soundssoggysong.mp3
-
----
-
-## ⚠️ Disclaimer
-
-Some sounds may be subject to copyright.  
-I am not responsible for any copyright issues arising from their use.  
-Also, some files may not work correctly or as expected.
-
----
