@@ -3,7 +3,7 @@
 
 ![Soggy Cat](https://soggy.cat/assets/images/soggycat.webp)
 
-This repository contains one example audio file for use with the **[Soggy]([https://github.com/Equicord/Equibored/tree/main/sounds/soggy])** Discord plugin — featuring a tuxedo cat in a bathtub.
+This repository contains one example audio file for use with the **[Soggy](https://github.com/Equicord/Equibored/tree/main/sounds/soggy)** Discord plugin — featuring a tuxedo cat in a bathtub.
 
 ---
 
