@@ -1,17 +1,23 @@
 # 🎵 Soggy Plugin Example Sound  
-> *A single sound. A single drip. An example file for the Soggy plugin.*
+> *A single sound. A single drip. Example audio for the Soggy plugin.*
 
 ![Soggy Cat](https://soggy.cat/assets/images/soggycat.webp)
 
-This repository contains an example audio file for use with the **[Soggy](https://github.com/TheTrueShadow/Soggy)** Discord plugin — a soundboard plugin featuring a tuxedo cat in a bathtub.
+This repository contains one example audio file for use with the **[Soggy](https://github.com/TheTrueShadow/Soggy)** Discord plugin — featuring a tuxedo cat in a bathtub.
+
+---
+
+## 🔊 Preview
+
+Due to GitHub restrictions, this audio file may not play directly in browsers. Use the link below within the plugin or download it for local playback.
 
 ---
 
 ## 🧼 Purpose
 
-- Test that the Soggy plugin is working
-- Preview audio file handling and streaming
-- Verify your setup before adding custom sounds
+- Test Soggy plugin playback  
+- Verify audio streaming setup  
+- Sample sound for initial use
 
 ---
 
