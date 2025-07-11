@@ -49,4 +49,4 @@ https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/Still%20A%20Piece%20O
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/Styx%20_%20Mr.%20Roboto%20%28HQ%29%200.mp3
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/its-just-a-burning-memory.opus
 https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/soundsjumpscaretrollolol.mp3
-https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/soundssoggysong.mp3 (orginal sould used in the plugin)
+https://raw.githubusercontent.com/TheTrueShadow/Soggy/main/soundssoggysong.mp3 (orginal sound used in the plugin)
